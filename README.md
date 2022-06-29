@@ -21,6 +21,8 @@ See the video below how it works
 
 [SmartContract in action](ExecutionResults/Recording.mov)
 
+Or go to the "ExecutionResults" folder and watch the "Recording.mov"
+
 When the transaction is successful the hash will be created:
 
 There are some transaction made with this Smart contract the resulting pictures of which you can find in Execution result folder.
