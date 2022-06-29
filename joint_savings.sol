@@ -7,7 +7,7 @@ A solidity smart contract that accepts two user addresses that are then able to 
 The smart contract will use ether management functions to implement various requirements from the financial institution to provide the features of the joint savings account.
 
 ---------------------
-We will use the following Ethereum dummy addresses on the Vanity-ETH website, which includes an Ethereum vanity address generator.
+Using this contract in Remix we will use the following Ethereum dummy addresses on the Vanity-ETH website, which includes an Ethereum vanity address generator.
 
   Dummy account1 address: 0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb
   Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
