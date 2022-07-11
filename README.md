@@ -1,3 +1,5 @@
+![](19_image.png)
+
 # JointSavings_SmartContract
 This is the automation of joint savings accounts's setup. It is a solidity smart contract that accepts two user addresses that are then able to control a joint savings account. The smart contract will use ether management functions to implement various requirements from the financial institution to provide the features of the joint savings account.
 
